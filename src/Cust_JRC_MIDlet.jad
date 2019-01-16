@@ -1,0 +1,8 @@
+MIDlet-1: MainMidlet,,com.gemalto.custJRC.MainMidlet
+MIDlet-Jar-Size: 57692
+MIDlet-Jar-URL: Cust_JRC_MIDlet.jar
+MIDlet-Name: Cust_JRC_MIDlet MIDlet Suite
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: IMP-NG
